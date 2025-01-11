@@ -16,7 +16,7 @@ Fame.Cheap is a powerful tool designed to help content creators and streamers in
 
 ## Getting Started
 
-To get started with Sooplive FollowBot, simply visit [www.fame.cheap]([https://www.fame.cheap](https://fame.cheap/shop/sooplive/follower)) to access our service. Follow the instructions provided on the website to begin boosting your followers on Sooplive.com.
+To get started with Sooplive FollowBot, simply visit [www.fame.cheap]([https://www.fame.cheap](https://fame.cheap/shop/sooplive/follower) to access our service. Follow the instructions provided on the website to begin boosting your followers on Sooplive.com.
 
 ## Support
 
